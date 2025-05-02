@@ -2,3 +2,5 @@ This was a team project for one of my Columbia Engineernig course 'IEME E4200 - 
 We proposed a community-focused café designed to bridge the gap between Columbia University and the local Harlem neighborhood. 
 Our goal was to create an affordable and accessible 'third space' that addresses student needs while also honoring Harlem's history 
 and providing opportunities for local residents through features like community-curated art displays and local employment.
+
+[View Project PDF](S2 T3 Engineering Project Final Sub.pptx.pdf)
