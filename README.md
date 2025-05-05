@@ -7,4 +7,8 @@ In particular, this course added a crucial human-centered perspective to my engi
 studies, and I came to realize that it is not only technical competence that drives true 
 innovation but also keen insight and empathy for diverse needs and social contexts.
 
+I was fortunate to come up with the idea of "affordable coffee," but the greater reward was to experience the full design process: 
+through teamwork, mentorship, and continuous iteration, the team took the idea into a 
+concrete solution that designed to bridge community and promote inclusive communication.
+
 [View Project PDF](S2 T3 Engineering Project Final Sub.pptx.pdf)
